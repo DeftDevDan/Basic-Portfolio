@@ -122,17 +122,31 @@ body {
 	position:relative;
 	float: left;
 	left:0;
+	width: 225px;
+	height: 168.75px;
 }
 
 .rightPic {
 	position: relative;
 	float: right;
 	right: 0;
+	width: 225px;
+	height: 168.75px;
+}
+
+.leftPic img {
+	width: 225px;
+	height:168.75px;
+}
+
+.rightPic img {
+	width: 225px;
+	height: 168.75px;
 }
 
 .leftH3 {
 	position: relative;
-	width: 200px;
+	width: 225px;
 	top: -50px;
 	text-align:center;
 	color:#ffffff;
@@ -144,7 +158,7 @@ body {
 
 .rightH3 {
 	position: relative;
-	width: 200px;
+	width: 225px;
 	top: -50px;
 	text-align:center;
 	color:#ffffff;
